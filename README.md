@@ -17,6 +17,7 @@ Developed and tested in a Linux environment (Parrot OS), the project demonstrate
 Screenshots
 assets/Main_Dashboard.png
 assets/Add_Rules.png
+assets/Rules_Management.png
 
 🚀 Features
 - Add/Delete IPTables firewall rules
