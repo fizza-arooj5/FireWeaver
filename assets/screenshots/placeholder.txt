@@ -1,1 +1,11 @@
+ 🚀 Key Security Features
 
+- IPTables rule management through graphical interface
+- INPUT, OUTPUT, and FORWARD chain configuration
+- Port and IP-based traffic filtering
+- Firewall policy visualization
+- Rule export and restoration
+- Search and filter firewall entries
+- Security-focused traffic management
+- Linux firewall administration support
+- Action logging and monitoring
