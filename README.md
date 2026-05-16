@@ -65,6 +65,7 @@ FireWeaver/
 - Treeview-based rule visualization
 
 👩‍💻 Author
+
 Developed by Fizza Arooj Anwer
 - Cybersecurity Enthusiast
 - SOC & Blue Team Learner
