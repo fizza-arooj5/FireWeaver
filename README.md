@@ -14,6 +14,9 @@ The tool provides an intuitive interface for configuring, monitoring, and managi
 
 Developed and tested in a Linux environment (Parrot OS), the project demonstrates practical implementation of network security concepts, firewall administration, and Python-based security tooling.
 
+Screenshots
+assets/Main_Dashboard.png
+
 🚀 Features
 - Add/Delete IPTables firewall rules
 - Search and filter firewall rules
