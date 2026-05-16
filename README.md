@@ -15,7 +15,6 @@ The tool provides an intuitive interface for configuring, monitoring, and managi
 Developed and tested in a Linux environment (Parrot OS), the project demonstrates practical implementation of network security concepts, firewall administration, and Python-based security tooling.
 
 🚀 Features
-
 - Add/Delete IPTables firewall rules
 - Search and filter firewall rules
 - Import and export firewall configurations
@@ -27,7 +26,6 @@ Developed and tested in a Linux environment (Parrot OS), the project demonstrate
 - Designed for Linux security administration
 
 🛡️ Security Use Cases
-
 FireWeaver can assist in:
 
 - Basic firewall administration
@@ -38,13 +36,11 @@ FireWeaver can assist in:
 - SOC and Blue Team learning environments
 
 ⚙️ Installation
-
-git clone https://github.com/fizza-arooj5/FireWeaver.git
-cd FireWeaver
-sudo python3 fireweaver.py
+- git clone https://github.com/fizza-arooj5/FireWeaver.git
+- cd FireWeaver
+- sudo python3 fireweaver.py
 
 💻 Requirements
-
 - Python 3.x
 - Linux OS
 - iptables
@@ -52,7 +48,6 @@ sudo python3 fireweaver.py
 - Root privileges
 
 📂 Project Structure
-
 FireWeaver/
 │
 ├── fireweaver.py
@@ -62,7 +57,6 @@ FireWeaver/
 ├── screenshots/
 
 🚀 Future Improvements
-
 - Real-time packet monitoring
 - Suspicious IP detection
 - Rule analytics dashboard
@@ -71,7 +65,6 @@ FireWeaver/
 - Treeview-based rule visualization
 
 👩‍💻 Author
-
 Developed by Fizza Arooj Anwer
 - Cybersecurity Enthusiast
 - SOC & Blue Team Learner
