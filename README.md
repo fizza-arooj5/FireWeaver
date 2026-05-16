@@ -1,42 +1,8 @@
-# 🔥 FireWeaver — Smart GUI for IPTables Management
+# 🔥 FireWeaver — Linux Firewall Management & Security Monitoring Tool
 
-**FireWeaver** is a professional, Python-based GUI firewall tool for managing Linux `iptables` rules. Designed with ethical hackers, system administrators, and Linux users in mind, it simplifies the creation, management, and visualization of firewall rules without the need to memorize command-line syntax.
+FireWeaver is a Python-based GUI application designed to simplify Linux firewall administration through IPTables rule management and security-focused traffic control.
 
----
+The tool provides an intuitive interface for configuring, monitoring, and managing firewall rules without relying entirely on command-line operations. FireWeaver enables users to create INPUT, OUTPUT, and FORWARD chain rules, manage traffic filtering policies, and visualize firewall configurations in a more accessible way.
 
-## 🚀 Features
-
-- ✅ Add/Remove iptables rules for INPUT, OUTPUT, and FORWARD chains
-- ✅ GUI input for IP address, port, and protocol
-- ✅ Select action: ACCEPT, DROP, FORWARD
-- ✅ Rule numbering and rule visualization
-- ✅ Save/Export rules to a file
-- ✅ Load/Restore rules from a saved file
-- ✅ Search/filter rules by IP or port
-- ✅ Log rule actions and system responses
-- ✅ Professional and clean interface (built with Tkinter)
-- ✅ Built and tested on Parrot OS (Debian-based)
-
----
-
-## 📸 Screenshots
-
-_Coming soon..._
-
----
-
-## 💻 Requirements
-
-- Python 3.x
-- `iptables` (pre-installed on most Linux distros)
-- `tkinter` module (usually bundled with Python)
-- Root privileges (`sudo`) to modify firewall rules
-
----
-
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/fizza-arooj5/fireweaver.git
-cd fireweaver
+Developed and tested in a Linux environment (Parrot OS), the project demonstrates practical implementation of network security concepts, firewall administration, and Python-based security tooling.
 
