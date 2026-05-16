@@ -17,7 +17,7 @@ Developed and tested in a Linux environment (Parrot OS), the project demonstrate
 ## 📸 Screenshots
 
 ### Main Dashboard
-![Main Dashboard](assets/Main_Dashboard.png)
+![Main Dashboard](assets/Main_Dashboard2.png)
 
 ### Add Rules
 ![Add Rules](assets/Add_Rules.png)
